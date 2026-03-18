@@ -58,6 +58,8 @@ This project analyzes retail sales data to uncover key business insights and tre
 
 ---
 
-📄 Project Report: Sales_Performance_Analysis_Report.pdf
+📄 Project Report: [Download PDF](./Sales_Performance_Analysis_Report.pdf)
+
+
 ## 🚀 Author
 **Amegha V S**
